@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 **Website:** [aravind-gk.github.io](https://aravind-gk.github.io/)
 
 ![](https://komarev.com/ghpvc/?username=aravind-gk)
+
+[![Aravind's github stats](https://github-readme-stats.vercel.app/api?username=aravind-gk&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/aravind-gk/github-readme-stats)
