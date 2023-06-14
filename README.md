@@ -11,9 +11,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Natural Language Processing, Reinforcement Learning, Computer Vision and Scalable Systems.
 - 👯 I’m looking to collaborate on interesting Machine Learning projects.
 - 💬 Ask me about careers in AI, life at IISc or preparing for the GATE Exam.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/aravind-gk/), [Twitter](https://twitter.com/aravind_IISc), [Quora](https://www.quora.com/profile/G-Aravind), [Email](mailto:aravindg1@iisc.ac.in).
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/aravind-gk/), [Twitter](https://twitter.com/_aravind_gk), [Quora](https://www.quora.com/profile/G-Aravind), [Email](mailto:aravindg1@iisc.ac.in).
 
-**Website:** [aravind-gk.github.io](https://aravind-gk.github.io/)
+**Website:** [aravindg.com](https://aravindg.com/)
 
 ![](https://komarev.com/ghpvc/?username=aravind-gk)
 
